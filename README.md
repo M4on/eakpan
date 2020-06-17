@@ -1,2 +1,1 @@
-# eakpan
-My online resume
+# resume
